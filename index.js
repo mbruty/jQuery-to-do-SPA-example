@@ -12,7 +12,6 @@ $(document).ready(() => {
     input.val("");
     renderItems();
   });
-  $(".btn-reomve").click(() => alert("Hello"));
 });
 
 /**
