@@ -28,7 +28,6 @@ const remove = (index) => {
 };
 
 /**
- * @param {Array<string>} items
  * @returns {void}
  */
 function renderItems() {
